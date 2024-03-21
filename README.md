@@ -12,3 +12,7 @@ Supershell is a WEB management platform that integrates the reverse_ssh service.
 # ![image](https://github.com/Try0WR/C2-Panels/assets/164344863/7fbb86d5-aa00-488d-a9b7-789aff89040a)
 RisePro is a stealer that is spread through downloaders like win.privateloader. Once executed on a system, the malware can steal credit card information, passwords, and personal data.
 
+
+# Twitter
+https://twitter.com/RacWatchin8872 <br>
+https://twitter.com/astrhunter
